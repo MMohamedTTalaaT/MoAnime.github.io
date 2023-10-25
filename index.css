@@ -1,0 +1,206 @@
+body 
+{
+  background-image: url(27144-RedAbstract-Hexagon-8k-Ultra-HD-Wallpaper.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  font-family: 'Carter One', cursive;
+  background-clip: none;
+
+
+}
+
+.mo 
+{
+  font-family: 'Carter One', cursive;
+  font-size: 70px;
+  font-style: oblique;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.shoe 
+{
+  font-family: 'Carter One', cursive;
+  font-size: 70px;
+  color: rgb(248, 37, 37);
+  font-weight: bold;
+  font-style: normal;
+  display: inline-block;
+  margin-left: 0px;
+}
+
+.Watch 
+{
+  border-style:solid;
+  border-color: rgb(248, 37, 37);
+  color: white;
+  border-radius: 10px;
+  display: block;
+  padding: 10px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  transition: color,border-color 0.30s;
+}
+
+.Watch:hover
+{
+  color: rgb(248, 37, 37);
+  border-style: solid;
+  border-color: white;
+}
+
+.tags-navbar 
+{
+  font-family: 'Carter One', cursive;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+  margin-left: 60px;
+  display: inline-block;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  transition: color 0.30s;
+}
+
+.tags-navbar:hover 
+{
+  color: rgb(248, 37, 37);
+}
+
+.season1
+{
+  color: white;
+}
+
+
+.src 
+{
+  width: 30px;
+}
+
+
+.viewandbuy, .lorem, .src
+{
+  margin-left: 70px;
+}
+
+.navbar 
+{
+display: inline-block;
+background-color: #292728;
+border-radius: 10px;
+padding-left: 40px;
+padding-right: 40px;
+}
+
+
+.naruto 
+{
+  border-style: solid;
+  border-color: rgb(248, 37, 37);
+  border-radius: 10px;
+  border-width: 5px;
+  width: 300px;
+  margin-top: 20px;
+  display: inline-block;
+  height: 400px;
+  margin-left: 20px;
+  cursor: pointer;
+  transition: box-shadow 0.30s;
+}
+
+
+.text 
+{
+  color: rgb(248, 37, 37);
+  background-color: rgb(0, 0, 0);
+  width: 200px;
+  margin-left: 300px;
+  font-size: x-large;
+  font-family: 'Carter One', cursive;
+  border-radius: 10px;
+  border-style: solid;
+  margin-right: 10px;
+}
+
+.naruto-season1
+{
+  margin-top: 20px;
+  display: inline-block;
+
+}
+
+.naruto:hover 
+{
+box-shadow: 20px 20px 1px rgb(95, 2, 2);
+}
+
+.atk-season1
+{
+  margin-top: 20px;
+  display: inline-block;
+
+}
+
+
+
+.icon 
+{
+  display: inline-block;
+  width: 100px;
+  margin-right: 100px;
+}
+
+
+
+@media (max-width: 1000px) 
+{
+
+  .shoes 
+  {
+    font-size: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+  }
+
+  .mo 
+  {
+    font-size: large;
+  }
+
+  .shoe 
+  {
+    font-size: x-large;
+    margin-right: 60px;
+  }
+
+  .text 
+  {
+    font-size: 10px;
+    margin-left: 200px;
+    width: 100px;
+    height: 20px;
+    border-radius: 5px;
+    border-style: solid;
+  }
+  
+  body 
+  {
+    font-size: large;
+    font-weight: bold;
+  }
+
+
+  .icon 
+  {
+    width: 60px;
+  }
+}
